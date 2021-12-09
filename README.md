@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Building Google docs clone with React and Slate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Inspired by and following design principles from [Ben Awad](https://www.youtube.com/watch?v=CmuUQymjbRo&ab_channel=BenAwad)
+
+Using [Slate](https://docs.slatejs.org/) to create the document text editor 
 
 ## Available Scripts
 
